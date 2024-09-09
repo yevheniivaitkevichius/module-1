@@ -122,7 +122,7 @@ h3 {
 	color: #ad1818;
 }
 
-.project__btn-all:hover {
+.projects__btn:hover {
 	background-color: #ad1818;
 	color: #fff;
 }
